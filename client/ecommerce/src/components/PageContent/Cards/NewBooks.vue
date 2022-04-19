@@ -56,7 +56,7 @@ import { Carousel, Slide, Navigation } from 'vue3-carousel';
 import CardModal from "./CardModal.vue"
 import BookDataService from "../../../services/BooksDataService";
 export default {
-    name:"CokSatanlar",
+    name:"NewBooks",
 
   components: {
     Carousel,

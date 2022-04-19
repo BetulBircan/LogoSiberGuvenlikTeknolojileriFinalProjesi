@@ -33,7 +33,7 @@
                 class="btn btn-success"
                 @click="getid(item)"
                 data-toggle="modal"
-                data-target="#myModal"
+                data-target="#bookModal"
                 
                 >Göster</a
               >
@@ -46,7 +46,7 @@
      
           </div>
 
-<CardModal :parentmessage="book"/>
+<CardModal2 :parentmessage="book"/>
       </div>
   
     </div>
@@ -55,7 +55,7 @@
 </template>
 
 <script>
-import CardModal from "./CardModal.vue"
+import CardModal2 from "./CardModal2.vue"
 import BookDataService from "../../../services/BooksDataService"
 import { store } from '../../store'
 export default {
@@ -68,7 +68,7 @@ export default {
     };
   },
   components:{
-CardModal
+CardModal2
   },
   created() {
 
