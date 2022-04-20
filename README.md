@@ -337,4 +337,8 @@ export default {
 </style>
 
 ```
+**Sonuç**
+
+![kitapdunyası](https://user-images.githubusercontent.com/86554799/163995074-86c45fb8-5860-4dc1-800d-b0f6acd27190.gif)
+
 - Projede geliştirilmeler devam etmekte olup burada güncellemesini yapmış olacağım
