@@ -180,7 +180,7 @@ app.use('/api',BookRouter)
      
           </div>
 
-<CardModal :parentmessage="book"/>
+<CardModal2 :parentmessage="book"/>
       </div>
   
     </div>
@@ -190,7 +190,7 @@ app.use('/api',BookRouter)
 
 <script>
 //componentler ve servisler burada tanımlanır
-import CardModal from "./CardModal.vue"
+import CardModal2 from "./CardModal2.vue"
 import BookDataService from "../../../services/BooksDataService"
 import { store } from '../../store'
 export default {
@@ -203,7 +203,7 @@ export default {
     };
   },
   components:{
-CardModal
+CardModal2
   },
   created() {
 
