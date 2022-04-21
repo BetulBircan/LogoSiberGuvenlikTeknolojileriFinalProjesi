@@ -13,6 +13,12 @@
   <NewBooks />
 
     <!-- Products End -->
+
+<!-- Products Start -->
+    <YeniCikanlar />
+    <!-- Products End -->
+
+
 <!-- AllBools -->
     <CardBooks />
     <!--  -->
@@ -39,10 +45,7 @@
     
 
 
-    <!-- Products Start -->
-    <YeniCikanlar />
-    <!-- Products End -->
-
+    
 
 
 
