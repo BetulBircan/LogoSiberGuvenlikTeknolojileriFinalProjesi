@@ -15,6 +15,9 @@
                     <img v-bind:src="parentmessage.imageurl">
                     <br>
                     <br>
+                    <b style="color: #351842">Açıklaması</b>
+                    <br>
+                    <br>
                     {{parentmessage.description}}
                     <br>
                     <br>
