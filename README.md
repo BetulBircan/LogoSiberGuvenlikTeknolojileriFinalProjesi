@@ -1,4 +1,4 @@
-﻿# LogoSGTFinallyProject
+﻿# Logo Siber Güvenlik Teknolojileri Final Projesi
 - Tek sayfadan oluşacak bir e-ticaret sitesi
 
 ## Proje Detayları:
