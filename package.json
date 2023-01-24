@@ -1,0 +1,19 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "- Tek sayfadan oluşacak bir e-ticaret sitesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetulBircan/LogoSiberGuvenlikTeknolojileriFinalProjesi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetulBircan/LogoSiberGuvenlikTeknolojileriFinalProjesi/issues"
+  },
+  "homepage": "https://github.com/BetulBircan/LogoSiberGuvenlikTeknolojileriFinalProjesi#readme"
+}
