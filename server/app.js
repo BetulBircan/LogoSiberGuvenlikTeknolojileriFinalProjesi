@@ -31,15 +31,15 @@ const logger = winston.createLogger({
 //
 logger.error("Hata Yakaladım")
 
-elasticClient.ping({    
-    requestTimeout: 1000
-}, function (error) {
-    if (error) {
-        console.trace('Elasticsearch\'e erişilmiyor!');
-    } else {
-        console.log('Elasticsearch ayakta :)');
-    }
-});
+// elasticClient.ping({    
+//     requestTimeout: 1000
+// }, function (error) {
+//     if (error) {
+//         console.trace('Elasticsearch\'e erişilmiyor!');
+//     } else {
+//         console.log('Elasticsearch ayakta :)');
+//     }
+// });
 
 
 
